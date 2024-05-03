@@ -46,4 +46,20 @@
   background-color: #bebebe;
 }
 
+.link {
+  margin: auto;
+  padding: 15px;
+  width: 320px;
+  border-radius: 16px;
+}
 
+.link button {
+  width: 320px;
+  font-size: 24px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.link button:hover {
+  background-color: rgb(225, 225, 255);
+}
